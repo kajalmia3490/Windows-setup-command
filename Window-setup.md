@@ -1,4 +1,4 @@
-## Microsoft Windows 10 set up short processes without any pendrive:
+# Microsoft Windows 10 set up short processes without any pendrive:
 *******************************************************************
 # Steps:
 ********
@@ -12,7 +12,7 @@
 
 5. Troubleshoot > advanced option > command prompt > desktopName select > continue.
 
-# CMD > keyboard command: 
+## CMD > keyboard command: 
 1.	:/driveName>diskpart
 2.	:/driveName>list volume
 3.	:/driveName>exit
@@ -22,4 +22,4 @@
 
 7. Somthing normal setting (permission, allow, next).
 
-# Finally, there is more normal setting/command in their windows setup process that we know. Like as: (next, select, ok, allow, permission, use of mouse etc).
+## Finally, there is more normal setting/command in their windows setup process that we know. Like as: (next, select, ok, allow, permission, use of mouse etc).
