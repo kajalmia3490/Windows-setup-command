@@ -13,12 +13,12 @@
 5. Troubleshoot > advanced option > command prompt > desktopName select > continue.
 
 6. CMD > keyboard command: 
-	:/driveName>diskpart
-	:/driveName>list volume
-	:/driveName>exit
-	:/driveName>drive select (whereas have windows file downloaded)
-	:/driveName>dir
-	:/driveName>setup.exe
+1.	:/driveName>diskpart
+2.	:/driveName>list volume
+3.	:/driveName>exit
+4.	:/driveName>drive select (whereas have windows file downloaded)
+5.	:/driveName>dir
+6.	:/driveName>setup.exe
 
 7. Somthing normal setting (permission, allow, next).
 
