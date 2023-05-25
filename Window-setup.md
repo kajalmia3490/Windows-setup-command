@@ -1,4 +1,4 @@
-# Microsoft Windows 10 set up short processes without any pendrive:
+## Microsoft Windows 10 set up short processes without any pendrive:
 *******************************************************************
 # Steps:
 ********
