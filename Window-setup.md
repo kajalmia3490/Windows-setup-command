@@ -12,7 +12,7 @@
 
 5. Troubleshoot > advanced option > command prompt > desktopName select > continue.
 
-6. CMD > keyboard command: 
+# CMD > keyboard command: 
 1.	:/driveName>diskpart
 2.	:/driveName>list volume
 3.	:/driveName>exit
